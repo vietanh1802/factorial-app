@@ -2,10 +2,10 @@ import streamlit as st
 from factorial import fact
 
 
-st.title ("Ứng dụng Tính Toán Cơ Bản")
+st.title ("Ứng dụng tính toán cơ bản")
 
 # Đặt tiêu đề phụ
-st.header("Tính Giai Thừa của Một Số Tự Nhiên")
+st.header("Tính giai thừa của một số tự nhiên")
 
 # Đoạn mô tả
 st.write("Ứng dụng này cho phép bạn tính giai thừa của một số tự nhiên. Vui lòng nhập số cần tính giai thừa vào ô dưới đây và nhấn nút 'Calculate'.")
